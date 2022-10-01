@@ -6,4 +6,5 @@ completition of the hacktoberfest
 but just helping bumbleB won't be a good idea
 ## idea 01
 ## Helping others whom you don't know...
-make a real web-dev repo to help others
+make a real web-dev repository to help others
+## reaching candidate masters on Codeforces within 5 months
